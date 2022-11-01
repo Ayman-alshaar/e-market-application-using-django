@@ -1,1 +1,1 @@
-# e-market-application-using-django
+# e-market-application-using-django  Developed by  ayman alshaar
